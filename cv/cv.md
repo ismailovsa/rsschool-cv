@@ -1,4 +1,3 @@
-![test]
 #SaidAkbar Ismailov
 
 ###контакты
